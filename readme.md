@@ -1,3 +1,9 @@
+<html>
+
+<head>
+  <base target="_blank">
+</head>
+
 <h1 align="center">
 PicPay Clone
 </h1>
@@ -10,7 +16,6 @@ PicPay Clone
  <img style="margin: 5px" src="./github/images/mobile_home.gif" alt="mobile_home" height="425"/>
  <img style="margin: 5px" src="./github/images/mobile_card.gif" alt="mobile_card" height="425"/>
 </div>
-
 ## Tutorial
 
 This application was based on [Matheus Silva's Tutorial on Youtube](https://www.youtube.com/watch?v=0CraBZHejKI&t=4s).
