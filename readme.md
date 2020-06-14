@@ -7,8 +7,8 @@ PicPay Clone
 </p>
 
 <div align="center">
- <img style="margin: 5px" src="./github/images/mobile_home.gif"/>
- <img style="margin: 5px" src="./github/images/mobile_card.gif"/>
+ <img style="margin: 5px" src="./github/images/mobile_home.gif" alt="mobile_home" height="425"/>
+ <img style="margin: 5px" src="./github/images/mobile_card.gif" alt="mobile_card" height="425"/>
 </div>
 
 ## Tutorial
